@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "version": 100
+  },
+  "score": {
+    "events": {
+      "bpm": [
+        {
+          "bpm": 210.0,
+          "t": 0
+        }
+      ],
+      "call": [
+        {
+          "t": 0,
+          "timing": [
+            0,
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "sig": [
+        {
+          "sig": [
+            4,
+            4
+          ],
+          "t": 0
+        }
+      ]
+    },
+    "notes": [
+      {
+        "pos": 8,
+        "size": 8,
+        "t": 3840,
+        "type": "trace"
+      },
+      {
+        "pos": 8,
+        "size": 8,
+        "t": 7680,
+        "type": "trace"
+      },
+      {
+        "pos": 12,
+        "size": 8,
+        "t": 11520,
+        "type": "trace"
+      },
+      {
+        "pos": 4,
+        "size": 8,
+        "t": 15360,
+        "type": "trace"
+      },
+      {
+        "pos": 0,
+        "size": 8,
+        "t": 19200,
+        "type": "trace"
+      },
+      {
+        "pos": 0,
+        "size": 8,
+        "t": 23040,
+        "type": "trace"
+      },
+      {
+        "pos": 16,
+        "size": 8,
+        "t": 23040,
+        "type": "trace"
+      },
+      {
+        "pos": 4,
+        "size": 8,
+        "t": 30720,
+        "type": "trace"
+      },
+      {
+        "pos": 12,
+        "size": 8,
+        "t": 30720,
+        "type": "trace"
+      },
+      {
+        "pos": 9,
+        "size": 6,
+        "t": 34560,
+        "type": "trace"
+      },
+      {
+        "node": [
+          {
+            "pos": 16,
+            "size": 8,
+            "t": 19200,
+            "type": "trace"
+          },
+          {
+            "pos": "auto",
+            "t": 20160
+          },
+          {
+            "pos": "auto",
+            "t": 21120
+          },
+          {
+            "pos": "auto",
+            "t": 22080
+          },
+          {
+            "pos": 9,
+            "size": 6,
+            "t": 22560,
+            "visible": false
+          }
+        ],
+        "type": "guide"
+      },
+      {
+        "node": [
+          {
+            "pos": 6,
+            "size": 6,
+            "t": 26880,
+            "type": "trace"
+          },
+          {
+            "pos": "auto",
+            "t": 28800
+          },
+          {
+            "pos": 6,
+            "size": 6,
+            "t": 30720,
+            "visible": false
+          }
+        ],
+        "type": "guide"
+      },
+      {
+        "node": [
+          {
+            "pos": 12,
+            "size": 6,
+            "t": 26880,
+            "type": "trace"
+          },
+          {
+            "pos": "auto",
+            "t": 28800
+          },
+          {
+            "pos": 12,
+            "size": 6,
+            "t": 30720,
+            "visible": false
+          }
+        ],
+        "type": "guide"
+      },
+      {
+        "node": [
+          {
+            "pos": 9,
+            "size": 6,
+            "t": 32640,
+            "type": "trace"
+          },
+          {
+            "pos": "auto",
+            "t": 33120
+          },
+          {
+            "pos": "auto",
+            "t": 33600
+          },
+          {
+            "pos": "auto",
+            "t": 34080
+          },
+          {
+            "pos": 9,
+            "size": 6,
+            "t": 36480,
+            "visible": false
+          }
+        ],
+        "type": "guide"
+      }
+    ]
+  }
+}

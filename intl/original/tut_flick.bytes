@@ -1,0 +1,1 @@
+{"meta":{"version":100},"score":{"events":{"bpm":[{"t":0,"bpm":210.0}],"sig":[{"t":0,"sig":[4,4]}],"call":[{"t":0,"timing":[0,1,0,1]}]},"notes":[{"type":"flick","t":3840,"pos":8,"size":8},{"type":"flick","t":5760,"pos":12,"size":8,"dir":"right"},{"type":"flick","t":7680,"pos":4,"size":8,"dir":"left"}]}}

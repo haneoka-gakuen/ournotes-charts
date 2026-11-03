@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "version": 100
+  },
+  "score": {
+    "events": {
+      "bpm": [
+        {
+          "bpm": 210.0,
+          "t": 0
+        }
+      ],
+      "call": [
+        {
+          "t": 0,
+          "timing": [
+            0,
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "sig": [
+        {
+          "sig": [
+            4,
+            4
+          ],
+          "t": 0
+        }
+      ]
+    },
+    "notes": [
+      {
+        "node": [
+          {
+            "pos": 16,
+            "size": 8,
+            "t": 3840
+          },
+          {
+            "pos": 16,
+            "size": 8,
+            "t": 5760
+          }
+        ],
+        "type": "long"
+      },
+      {
+        "node": [
+          {
+            "ease": "out",
+            "pos": 11,
+            "size": 10,
+            "t": 19200
+          },
+          {
+            "ease": "in",
+            "pos": 14,
+            "size": 10,
+            "t": 19680,
+            "visible": false
+          },
+          {
+            "ease": "out",
+            "pos": 10,
+            "size": 10,
+            "t": 20160,
+            "visible": false
+          },
+          {
+            "ease": "in",
+            "pos": 7,
+            "size": 10,
+            "t": 20640,
+            "visible": false
+          },
+          {
+            "pos": 10,
+            "size": 10,
+            "t": 21120
+          }
+        ],
+        "type": "long"
+      },
+      {
+        "node": [
+          {
+            "pos": 0,
+            "size": 8,
+            "t": 7680
+          },
+          {
+            "pos": 0,
+            "size": 8,
+            "t": 9600
+          }
+        ],
+        "type": "long"
+      },
+      {
+        "node": [
+          {
+            "ease": "in",
+            "pos": 0,
+            "size": 8,
+            "t": 26880
+          },
+          {
+            "pos": 0,
+            "size": 8,
+            "t": 30720
+          }
+        ],
+        "type": "long"
+      },
+      {
+        "node": [
+          {
+            "pos": 12,
+            "size": 8,
+            "t": 11520
+          },
+          {
+            "pos": 16,
+            "size": 8,
+            "t": 13440
+          }
+        ],
+        "type": "long"
+      },
+      {
+        "node": [
+          {
+            "ease": "in",
+            "pos": 16,
+            "size": 8,
+            "t": 26880
+          },
+          {
+            "pos": 16,
+            "size": 8,
+            "t": 30720
+          }
+        ],
+        "type": "long"
+      },
+      {
+        "node": [
+          {
+            "pos": 4,
+            "size": 8,
+            "t": 15360
+          },
+          {
+            "pos": 0,
+            "size": 8,
+            "t": 17280
+          }
+        ],
+        "type": "long"
+      },
+      {
+        "node": [
+          {
+            "ease": "out",
+            "pos": 3,
+            "size": 10,
+            "t": 23040
+          },
+          {
+            "ease": "in",
+            "pos": 0,
+            "size": 10,
+            "t": 23520,
+            "visible": false
+          },
+          {
+            "ease": "out",
+            "pos": 4,
+            "size": 10,
+            "t": 24000,
+            "visible": false
+          },
+          {
+            "ease": "in",
+            "pos": 7,
+            "size": 10,
+            "t": 24480,
+            "visible": false
+          },
+          {
+            "pos": 4,
+            "size": 10,
+            "t": 24960
+          }
+        ],
+        "type": "long"
+      }
+    ]
+  }
+}

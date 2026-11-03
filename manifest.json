@@ -1,0 +1,19 @@
+{
+  "schema": "haneoka-charts-v1",
+  "servers": {
+    "jp": {
+      "sha256": "1b77d1eec5c9bc737e701b57470959910f0cf0ce7c709a6f023930a2c9c50c42",
+      "files": 795,
+      "input": "r-e261e5c71807bf57801b",
+      "hash": "8be74134b87dacf7ce1f38967cd66745",
+      "version": "1.1.0.200"
+    },
+    "intl": {
+      "sha256": "51472dca91446d0e7d9ec77a1b0b195d3d7dc805b63df06021b78c7512cb0430",
+      "files": 795,
+      "input": "r-6d239366cf3b7cb3c0ad",
+      "hash": "c045774b66a6c9d107739ba5ca121e6a",
+      "version": "1.1.0.200"
+    }
+  }
+}

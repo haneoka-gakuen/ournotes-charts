@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "version": 100
+  },
+  "score": {
+    "events": {
+      "bpm": [
+        {
+          "bpm": 210.0,
+          "t": 0
+        }
+      ],
+      "call": [
+        {
+          "t": 0,
+          "timing": [
+            0,
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "sig": [
+        {
+          "sig": [
+            4,
+            4
+          ],
+          "t": 0
+        }
+      ]
+    },
+    "notes": [
+      {
+        "pos": 8,
+        "size": 8,
+        "t": 3840,
+        "type": "flick"
+      },
+      {
+        "dir": "right",
+        "pos": 12,
+        "size": 8,
+        "t": 5760,
+        "type": "flick"
+      },
+      {
+        "dir": "left",
+        "pos": 4,
+        "size": 8,
+        "t": 7680,
+        "type": "flick"
+      }
+    ]
+  }
+}
